@@ -77,9 +77,9 @@ Median : https://asciinema.org/a/Wza0VfebyBdTmeDRnYCuOZvP0
 UnsharpMask : https://asciinema.org/a/TV3bQA1owmbx6frxcJK7yP0EZ
 
 <img src="/img/UnsharpMask.jpeg" width="200" height="200">
-`##  Radius(float64) : 9.9
-
-## Amount(float64) : 5.2`
+Radius(float64) : 9.9
+<br>
+Amount(float64) : 5.2
 
 ---------
 
