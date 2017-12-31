@@ -1,2 +1,2 @@
 # Golang-Image-Processor
-Golang Image Processor
+Golang "Command Line Interface" Image Processor
