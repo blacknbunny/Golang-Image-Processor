@@ -4,6 +4,7 @@ Golang "Command Line Interface" Image Processor
 ## Installation
 
 ```
+git clone https://github.com/blacknbunny/Golang-Image-Processor.git && cd Golang-Image-Processor/
 go get github.com/fatih/color
 go get github.com/anthonynsimon/bild/effect
 go get github.com/anthonynsimon/bild/imgio
