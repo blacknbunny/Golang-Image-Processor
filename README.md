@@ -34,36 +34,36 @@ Sharpen : https://asciinema.org/a/roRDCwfifftNK1IOOC9csLdQ7
 EdgeDetection : https://asciinema.org/a/hG2fwDikacUiNumL8cPDp4c7P
 
 <img src="/img/EdgeDetection.jpeg" width="200" height="200">
-### Radius(float64) : 1.1
+## Radius(float64) : 1.1
 
 ---------
 
 Dilate : https://asciinema.org/a/nRx0nYd8XQZiuajANPAsOuQZO
 
 <img src="/img/Dilate.jpeg" width="200" height="200">
-### Radius(float64) : 1.1
+## Radius(float64) : 1.1
 
 ---------
 
 Erode : https://asciinema.org/a/bGSu2lrtJoFrub1QYQmaTb7FX
 
 <img src="/img/Erode.jpeg" width="200" height="200">
-### Radius(float64) : 5.6
+## Radius(float64) : 5.6
 
 ---------
 
 Median : https://asciinema.org/a/Wza0VfebyBdTmeDRnYCuOZvP0
 
 <img src="/img/Median.jpeg" width="200" height="200">
-### Radius(float64) : 7.8
+## Radius(float64) : 7.8
 
 ---------
 
 UnsharpMask : https://asciinema.org/a/TV3bQA1owmbx6frxcJK7yP0EZ
 
 <img src="/img/UnsharpMask.jpeg" width="200" height="200">
-### Radius(float64) : 9.9
-### Amount(float64) : 5.2
+## Radius(float64) : 9.9
+## Amount(float64) : 5.2
 
 ---------
 
