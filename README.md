@@ -1,6 +1,8 @@
 # Golang-Image-Processor
 Golang "Command Line Interface" Image Processor
 
+[![demo](https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAGE.png)](https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAGE?autoplay=1)
+
 Original : https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAG
 
 <img src="/img/original.png" width="200" height="200">
@@ -70,6 +72,3 @@ UnsharpMask : https://asciinema.org/a/TV3bQA1owmbx6frxcJK7yP0EZ
 Emboss : https://asciinema.org/a/KUwBRUzV79DJqeoTl4ip7Ukup
 
 <img src="/img/Emboss.jpeg" width="200" height="200">
-
-
-[![demo](https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAGE.png)](https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAGE?autoplay=1)
