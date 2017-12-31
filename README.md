@@ -2,7 +2,7 @@
 Golang "Command Line Interface" Image Processor
 
 Original : https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAG
-![Original Image](/img/original.png)
+![Original Image](/img/original.png | width=48)
 
 Sobel : https://asciinema.org/a/8HOqMatqr6kCFAhuedTbFmU8C
 ![Sobel Image](/img/Sobel.jpeg)
