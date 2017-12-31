@@ -3,6 +3,7 @@ Golang "Command Line Interface" Image Processor
 
 Original : https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAG
 ![Original Image](/img/original.png)
+<img src="/img/original.png" width="100" height="100">
 
 Sobel : https://asciinema.org/a/8HOqMatqr6kCFAhuedTbFmU8C
 ![Sobel Image](/img/Sobel.jpeg)
