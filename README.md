@@ -1,7 +1,20 @@
 # Golang-Image-Processor
 Golang "Command Line Interface" Image Processor
 
+## Installation
+
+```
+go get github.com/fatih/color
+go get github.com/anthonynsimon/bild/effect
+go get github.com/anthonynsimon/bild/imgio
+go get github.com/anthonynsimon/bild/transform
+```
+
+## Usage 
+
 [![demo](https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAGE.png)](https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAGE?autoplay=1)
+
+-----------------------
 
 Original : https://asciinema.org/a/M7Manb8GEKuZ5O1BzzKXzkAG
 
